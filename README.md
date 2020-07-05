@@ -1,0 +1,2 @@
+# bbitraining
+training activity
